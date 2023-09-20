@@ -1,0 +1,27 @@
+-- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
+-- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
+-- import: IrfanPJ.github.io/IrfanPortfolio/lib
+
+-- lib.page:
+
+-- lib.header:
+logo: $assets.files.assets.logo.jpg
+logo-text: Portfolio
+cta-text-1: Home
+cta-text-2: About
+cta-text-3: Resume
+cta-text-1-url: index.html
+cta-text-2-url: index.html
+cta-text-3-url: index.html
+
+-- hero-1.hero-1: I'm Irfan Jafar
+cta-button-1: Resume
+link-1: https://www.resume.com/
+cta-button-2: Schedule Meeting
+link-2: https://calendly.com/
+cover: $assets.files.assets.IMG_2662_Original.jpeg
+
+I am a student of Mesce.Studying for Btech Attificial Intelligence
+
+
+-- end: lib.page
